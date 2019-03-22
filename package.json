@@ -1,0 +1,19 @@
+{
+  "name": "xylobot",
+  "version": "1.0.0",
+  "description": "Official bot of XyloNet, created by @𝕏𝕪𝕝𝕠𝕟𝕠𝕝𝕪#1612",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Nigga What?\" && exit 1"
+  },
+  "author": "@Xylonoly#1612",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "save": "^2.3.3",
+    "snekfetch": "^4.0.4"
+  }
+}
