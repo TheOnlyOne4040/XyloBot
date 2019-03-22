@@ -4,7 +4,7 @@
   "description": "Official bot of XyloNet, created by @𝕏𝕪𝕝𝕠𝕟𝕠𝕝𝕪#1612",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Nigga What?\" && exit 1"
+    "test": "echo \"What?\" && exit 1"
   },
   "author": "@Xylonoly#1612",
   "license": "ISC",
