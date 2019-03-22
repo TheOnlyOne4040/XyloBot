@@ -32,4 +32,4 @@ bot.on('ready',function(){
     bot.user.setActivity('Crusading ' + bot.guilds.size + ' servers');
 })
 
-bot.login(process.env.token);
+bot.login(token);
